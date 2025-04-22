@@ -7,7 +7,7 @@
     "urls":[
         {
             "versions":["1.0.0"],
-            "api":"https://raw.githubusercontent.com/wheatleyinspace/JackboxUtility-Server-ru-whatif/main/api/v2/",
+            "api":"https://raw.githubusercontent.com/wheatleyinspace/JackboxUtility-Server-ru-images/main/api/v2/",
             "assets":"https://raw.githubusercontent.com/wheatleyinspace/JackboxUtility-Server-ru-images/main/assets"
         }
     ],
